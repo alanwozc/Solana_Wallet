@@ -2,7 +2,7 @@
 ## 安装Anaconda
 
 1. **下载Anaconda安装包：**
-   - 访问[Anaconda官网](https://www.anaconda.com/download)下载适用于Mac的Anaconda安装器。
+   - 访问[Anaconda官网](https://www.anaconda.com/download)下载适用的Anaconda安装器。
 2. **安装Anaconda：**
    - 打开下载的安装包并遵循安装向导的指示完成安装。默认情况下，Anaconda会安装在你的用户目录下。
 
